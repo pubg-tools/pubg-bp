@@ -33,3 +33,10 @@
 
 
 打包和其他剩下的自行研究
+
+
+安装 python 教程 https://www.bilibili.com/video/BV1h3411G7Br/
+
+安装 redis 教程 https://www.bilibili.com/video/BV17D4y1M7ha/
+
+安装 mongodb 教程 https://www.bilibili.com/video/BV1BS4y1w7Wy
