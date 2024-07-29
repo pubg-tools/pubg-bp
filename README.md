@@ -1,4 +1,4 @@
-tg群 https://t.me/+t-TTaLSJbqRmMTc9
+<!-- tg群 https://t.me/+t-TTaLSJbqRmMTc9 -->
 
 挂BP版开源地址
 
@@ -40,3 +40,6 @@ tg群 https://t.me/+t-TTaLSJbqRmMTc9
 安装 redis 教程 https://www.bilibili.com/video/BV17D4y1M7ha/
 
 安装 mongodb 教程 https://www.bilibili.com/video/BV1BS4y1w7Wy
+
+
+吾爱破解 SonyRadio
